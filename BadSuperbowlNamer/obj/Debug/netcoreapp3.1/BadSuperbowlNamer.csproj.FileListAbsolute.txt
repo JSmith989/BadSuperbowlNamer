@@ -1,0 +1,13 @@
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp3.1\BadSuperbowlNamer.exe
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp3.1\BadSuperbowlNamer.deps.json
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp3.1\BadSuperbowlNamer.runtimeconfig.json
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp3.1\BadSuperbowlNamer.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp3.1\BadSuperbowlNamer.dll
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\bin\Debug\netcoreapp3.1\BadSuperbowlNamer.pdb
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.csprojAssemblyReference.cache
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.AssemblyInfo.cs
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.dll
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.pdb
+C:\Users\jorda\source\repos\BadSuperbowlNamer\BadSuperbowlNamer\obj\Debug\netcoreapp3.1\BadSuperbowlNamer.genruntimeconfig.cache
